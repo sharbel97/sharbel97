@@ -1,9 +1,10 @@
 hi there 👋 i'm sharbel
-- 🔎 i'm a current software engineer at a startup in finance
-- 🔭 in my nonexisitent free time I work on my trading system [numeri](https://github.com/sharbel97/numeri), and an opensource maps routing engine [valhalla](https://github.com/sharbel97/valhalla).
+- i'm a current software engineer at a startup in finance
+- in my free time I work on my c++ trading system [numeri](https://github.com/sharbel256/numeri), or prediction markets analytics [polyscoop](https://github.com/sharbel256/polyscoop)
+- exploring interesting opensource projects! [valhalla](https://github.com/sharbel256/valhalla), [brave](https://github.com/brave/brave-core)
 
 <!--
-**sharbel97/sharbel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sharbel256/sharbel256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
